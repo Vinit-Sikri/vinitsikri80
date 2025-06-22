@@ -3,6 +3,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7D5&center=true&vCenter=true&width=800&lines=Final+Year+Student+at+LNMIIT;Full+Stack+Web+Developer;Open+Source+Contributor+%F0%9F%9A%80;Tech+Learner+and+Problem+Solver" />
+</p>
+
+
 ### 🧑‍💻 About Me:
 - 🎓 I'm a final-year student at **LNMIIT Jaipur**
 - 💻 I build **full-stack web apps** with React, Node.js, and MongoDB
